@@ -120,25 +120,7 @@ python src/simulate_pipeline.py
 streamlit run src/app.py
 ```
 
-## Example recruiter-ready bullets you can use
-
-- Built a real-time telemetry monitoring pipeline using Amazon Kinesis and Apache Flink to detect inactive flight beams within a rolling 30-minute window, reducing incident detection time.
-- Designed an event-driven alerting workflow using Lambda and SNS for near real-time anomaly notifications.
-- Implemented data quality checks and curated analytics datasets for downstream reporting in Redshift/Athena.
-- Documented Terraform-based infrastructure and CI validation to demonstrate production-ready data engineering practices.
-
-## What to screenshot for LinkedIn
-
-- README architecture section
-- anomaly output from `simulate_pipeline.py`
-- Streamlit dashboard showing inactive beams
-- Terraform folder + CI workflow
-
-## Suggested GitHub repo name
-
-`flight-stream-anomaly-monitor`
-
-## Next improvements
+## Next improvements working on
 
 - add Docker support
 - add unit tests for inactivity rules
