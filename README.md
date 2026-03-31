@@ -6,8 +6,6 @@ This project demonstrates how to design a streaming data platform that detects i
 
 ## Why this project matters
 
-This repo is designed to show recruiters and hiring managers that you can:
-
 - build real-time pipelines with event-driven architecture
 - design scalable AWS-first data engineering solutions
 - implement anomaly detection logic for streaming data
